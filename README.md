@@ -2,4 +2,4 @@
 
 # I am Jaden Furtado
 
-A engineer, developer, hacker, artist and musician.
+An engineer, developer, hacker, artist and musician.
