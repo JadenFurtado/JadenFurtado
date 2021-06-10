@@ -16,7 +16,7 @@ I have always found hacking as an escape from stress and pressure, where I get t
 
 
 ## My hacking career:
-![Alt text](/b.jpg?raw=true |height=300 width=200)
+![Alt text]<img src="https://github.com/JadenFurtado/JadenFurtado/blob/main/b.jpg" width="100" height="100">
 
 I enjoy drawing and playing the keyboard/piano. You can see more of my drawing in my art account on Instagram
 Link: https://instagram.com/furtado_art
