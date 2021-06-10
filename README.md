@@ -7,7 +7,7 @@ An engineer, developer, hacker, artist and musician.
 ## My work as a developer:
 ![Alt text](/a.jpg?raw=true)
 
-As a developer, I have most of my work has been centred around web development. That being said, I am more than able to write code for desktop/android applications. I know PHP, Python, Java, C++, C, SQL, HTML, CSS, Javascript. I am familiar with web development frameworks of Django and Flask as well as other MVC frameworks of Laravel and Codeigniter. I have also worked with Kivy(a UI/UX framework of python).
+As a developer, I have most of my work has been centred around web development. That being said, I am more than able to write code for desktop/android applications. I know PHP, Python, Java, C++, C, SQL, HTML, CSS, Javascript. I am familiar with web development frameworks of Django and Flask as well as other MVC frameworks of Laravel and Codeigniter. I have also worked with Java swing, Tinkter, Android and Kivy(a UI/UX framework of python).
 
 ## My hacking career:
 ![Alt text](/istockphoto-502860430-612x612.jpg?raw=true)
