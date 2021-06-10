@@ -1,8 +1,6 @@
-### Welcome to my Github Profile
-
 # I am Jaden Furtado
 
-An engineer, developer, hacker, artist and musician.
+### An engineer, developer, hacker, artist and musician.
 
 ## My work as a developer:
 ![Alt text](/a.jpg?raw=true)
