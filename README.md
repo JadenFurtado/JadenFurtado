@@ -14,7 +14,5 @@ I have always found hacking as an escape from stress and pressure, where I get t
 ![Alt text](/a.jpg?raw=true)
 
 As a developer, I have most of my work has been centred around web development. That being said, I am more than able to write code for desktop/android applications. I have developed applications in PHP, Python, Java, C++, C, SQL, HTML, CSS, Javascript, etc. 
-## My work as an artist:
-<img src="https://github.com/JadenFurtado/JadenFurtado/blob/main/b.jpg" width="40%" height="40%">
 
 ### Link: https://instagram.com/furtado_art
