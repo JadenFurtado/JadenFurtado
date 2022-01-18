@@ -9,8 +9,3 @@
 
 ## My art account:
 ### Link: https://instagram.com/furtado_art
-
-
-* This is a demo
-
-<a href="https://instagram.com/jaden_furtado">You can see my posts on my insta account</a>
