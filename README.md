@@ -7,3 +7,8 @@
 
 ## My art account:
 ### Link: https://instagram.com/furtado_art
+
+## My work in cybersecurity:
+### Link: 
+* My writeups on github -> <a href="https://github.com/JadenFurtado/security_writeups/">Here</a>
+* My articles on Medium -> <a href="https://medium.com/@furtadojaden">Here</a> 
