@@ -8,5 +8,3 @@
 ## My art account:
 ### Link: https://instagram.com/furtado_art
 
-## My work in cybersecurity:
-### Link: My articles on Medium -> <a href="https://medium.com/@furtadojaden">Here</a> 
