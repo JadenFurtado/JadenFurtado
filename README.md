@@ -7,7 +7,3 @@
 
 ## My art account:
 ### Link: https://instagram.com/furtado_art
-
-## My work in infosec:
-Those who know me know that I am really passionate about cybersecurity and have done quite a bit of my work around it. Here are some of my writeups on infosec for those interested in reading :)
-### Link: https://github.com/JadenFurtado/security_writeups
